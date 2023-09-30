@@ -4,7 +4,9 @@
 
 *Nicole Shukin*
 
+[GitHub page](https://l1ch3n.github.io/cpnt260-a3-repo/)
 
+### Attributions:
 
 [Helpful Resource](https://www.w3schools.com/howto/howto_css_hero_image.asp) 
 
